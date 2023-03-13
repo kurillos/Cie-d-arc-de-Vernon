@@ -43,9 +43,22 @@ table {
   p {
     text-align: center;
   }
-=======
+
 .compagnyName {
     text-align: center;
     color: blue;
 };
 
+h2 h3 {
+   text-align: center;
+}
+
+.content {
+    display:block;
+    text-align: center;
+}
+
+.price table {
+    display: inline-block;
+    text-align: center;
+}
