@@ -97,3 +97,23 @@ h2 h3 {
 .footerList {
   list-style: none;
 }
+
+iframe {
+  border: 1px solid black;
+  width: 50%;
+}
+
+.wrapper {
+  display: flex;
+
+}
+
+.archeryWoman {
+  width: 50%;
+  height: 50%;
+}
+
+.wrapperText {
+  display: inline-block;
+  vertical-align: middle;
+}
