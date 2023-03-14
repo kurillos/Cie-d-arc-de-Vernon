@@ -115,5 +115,5 @@ iframe {
 
 .wrapperText {
   display: inline-block;
-  vertical-align: middle;
+  vertical-align: baseline;
 }
